@@ -1,0 +1,13 @@
+---
+# TEMPLATE — copy this folder to talks/YYYY-MM-short-name/ and edit.
+# Folders starting with "_" are ignored by Quarto, so this template never renders.
+title: "Talk title"
+subtitle: "Event name, City"
+date: "2026-01-01"
+# image: featured.png
+---
+
+Abstract or short description.
+
+-   [Slides](https://example.com)
+-   [Recording](https://example.com)

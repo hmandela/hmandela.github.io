@@ -1,0 +1,19 @@
+---
+title: "Talks"
+listing:
+  - id: talks
+    contents: "*/index.qmd"
+    type: grid
+    fields: [image, date, title, subtitle]
+    sort: "date desc"
+    sort-ui: true
+    filter-ui: true
+    page-size: 36
+page-layout: full
+title-block-banner: false
+comments: false
+toc: false
+---
+
+::: {#talks}
+:::
