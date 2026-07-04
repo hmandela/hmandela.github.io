@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Mandela HOUNGNIBO — Blog</title>
+<link>https://hmandela.github.io/blog/</link>
+<atom:link href="https://hmandela.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Agro-hydro-meteorologist. Seasonal climate forecasting, hydrology and machine learning for West Africa.</description>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Thu, 02 Jul 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to my new website</title>
+  <dc:creator>Mandela HOUNGNIBO</dc:creator>
+  <link>https://hmandela.github.io/blog/2026-07-03-welcome/en/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Welcome! This site is built with <a href="https://quarto.org/">Quarto</a> and gathers my work on <strong>seasonal climate forecasting</strong>, <strong>hydrological modelling</strong> and <strong>machine learning for West Africa</strong> — including the <a href="https://github.com/hmandela/WASS2S">WASS2S</a> framework.</p>
+<p>Posts will appear in English and in French. Stay tuned.</p>
+<p><em><a href="../../../blog/2026-07-03-welcome/fr/index.html">Version française</a></em></p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>news</category>
+  <category>quarto</category>
+  <guid>https://hmandela.github.io/blog/2026-07-03-welcome/en/</guid>
+  <pubDate>Thu, 02 Jul 2026 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Bienvenue sur mon nouveau site</title>
+  <dc:creator>Mandela HOUNGNIBO</dc:creator>
+  <link>https://hmandela.github.io/blog/2026-07-03-welcome/fr/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Bienvenue ! Ce site est construit avec <a href="https://quarto.org/">Quarto</a> et rassemble mes travaux sur la <strong>prévision climatique saisonnière</strong>, la <strong>modélisation hydrologique</strong> et l’<strong>apprentissage automatique pour l’Afrique de l’Ouest</strong> — dont le framework <a href="https://github.com/hmandela/WASS2S">WASS2S</a>.</p>
+<p>Les articles paraîtront en anglais et en français. À bientôt.</p>
+<p><em><a href="../../../blog/2026-07-03-welcome/en/index.html">English version</a></em></p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
+  <category>news</category>
+  <category>quarto</category>
+  <guid>https://hmandela.github.io/blog/2026-07-03-welcome/fr/</guid>
+  <pubDate>Thu, 02 Jul 2026 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
