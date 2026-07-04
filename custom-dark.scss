@@ -1,0 +1,26 @@
+/*-- scss:defaults --*/
+// Brand color, lightened for contrast on dark backgrounds
+$primary: #2aa3a3 !default;
+$link-color: $primary !default;
+
+/*-- scss:rules --*/
+.navbar {
+  background-color: #043f3f;
+}
+
+.quarto-title-banner {
+  margin-bottom: 1em;
+  color: rgba(255, 255, 255, .85);
+  background: #043f3f;
+}
+
+b, strong {
+  color: $primary;
+  font-weight: bolder;
+}
+
+div.quarto-post .listing-categories .listing-category {
+  color: $primary;
+  border: solid 1px var(--bs-gray-600);
+  font-size: .8em;
+}

@@ -1,0 +1,17 @@
+---
+title: "Publications"
+comments: false
+toc: false
+---
+
+## Peer-reviewed articles
+
+Houngnibo, M. C. M., Ali, A., Agali, A., Waongo, M., Lawin, A. E., & Cohard, J. M. (2023). **Stochastic disaggregation of seasonal precipitation forecasts of the West African Regional Climate Outlook Forum**. *International Journal of Climatology, 43*(12), 5569-5585. [doi:10.1002/joc.8160](https://doi.org/10.1002/joc.8160)
+
+Houngnibo, M. C. M., Minoungou, B., Traore, S. B., Maidment, R. I., Alhassane, A., & Ali, A. (2023). **Validation of high-resolution satellite precipitation products over West Africa for rainfall monitoring and early warning**. *Frontiers in Climate, 5*, 1185754. [doi:10.3389/fclim.2023.1185754](https://doi.org/10.3389/fclim.2023.1185754)
+
+The full and up-to-date list is on [Google Scholar](https://scholar.google.com/citations?hl=en&user=-wzU1PAAAAAJ&view_op=list_works&sortby=pubdate) and [ResearchGate](https://www.researchgate.net/profile/Mandela-Houngnibo/research).
+
+## Software
+
+**WASS2S** — West Africa Seasonal-to-Subseasonal forecasting framework (Python). [GitHub](https://github.com/hmandela/WASS2S) · [Documentation](https://wass2s-readthedocs.readthedocs.io/en/latest/)

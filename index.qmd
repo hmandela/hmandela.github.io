@@ -1,0 +1,45 @@
+<!-- # --- -->
+title: "Mandela HOUNGNIBO"
+image: hm.jpg
+page-layout: full
+title-block-banner: false
+comments: false
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 12em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:hmandelahmadiba@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/hmandela
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mandela-houngnibo/
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=-wzU1PAAAAAJ&view_op=list_works&sortby=pubdate
+listing:
+  - id: recent-posts
+    contents: blog/*/*/index.qmd
+    type: default
+    fields: [image, date, title, subtitle, categories, reading-time]
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    page-size: 3
+---
+
+I am an **agro-hydro-meteorologist** working on seasonal climate forecasting, hydrological modelling and machine learning for West Africa. I am the author of [**WASS2S**](https://github.com/hmandela/WASS2S), a Python framework for seasonal-to-subseasonal forecasting in West Africa.
+
+[More about me →](about.qmd) · [En français →](about-fr.qmd)
+
+## Latest posts
+
+::: {#recent-posts}
+:::
+
+[All posts →](blog/index.qmd)

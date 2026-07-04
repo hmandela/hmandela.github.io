@@ -1,0 +1,13 @@
+---
+# TEMPLATE — copy this folder to talks/YYYY-MM-short-name/ and edit.
+# Folders starting with "_" are ignored by Quarto, so this template never renders.
+title: "WAS-NextGen: An Objective Multi-Method Framework for Seasonal Climate Forecasting in West Africa"
+subtitle: "WMO AI Webinars, Online"
+date: "2026-04-27"
+# image: featured.png
+---
+
+Abstract or short description.
+
+-   [Slides](https://example.com)
+-   [Recording](https://example.com)
