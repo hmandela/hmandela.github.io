@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/blog/2026-07-03-welcome/en/index.html",
+      "/blog/2026-07-03-welcome/fr/index.html"
+    ]
+  },
+  {
     "listing": "/CliMet/index.html",
     "items": [
       "/CliMet/2026-07-03-welcome/en/index.html",

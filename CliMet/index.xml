@@ -5,14 +5,14 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Mandela HOUNGNIBO — Blog</title>
+<title>Mandela HOUNGNIBO — CliMet</title>
 <link>https://hmandela.github.io/CliMet/</link>
 <atom:link href="https://hmandela.github.io/CliMet/index.xml" rel="self" type="application/rss+xml"/>
 <description>Agro-hydro-meteorologist. Seasonal climate forecasting, hydrology and machine learning for West Africa.</description>
 <generator>quarto-1.9.38</generator>
 <lastBuildDate>Fri, 03 Jul 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Welcome to my new website</title>
+  <title>About this section</title>
   <dc:creator>Mandela HOUNGNIBO</dc:creator>
   <link>https://hmandela.github.io/CliMet/2026-07-03-welcome/en/</link>
   <description><![CDATA[ 
@@ -22,20 +22,20 @@
 
 
 
-<p>Welcome! This site is built with <a href="https://quarto.org/">Quarto</a> and gathers my work on <strong>seasonal climate forecasting</strong>, <strong>hydrological modelling</strong> and <strong>machine learning for West Africa</strong> — including the <a href="https://github.com/hmandela/WASS2S">WASS2S</a> framework.</p>
-<p>Posts will appear in English and in French. Stay tuned.</p>
+<p>This section collects short technical notes on <strong>seasonal climate forecasting</strong>, <strong>meteorology</strong> and <strong>hydrology</strong> for West Africa — the topics behind the <a href="https://github.com/hmandela/WASS2S">WASS2S</a> framework.</p>
+<p>More notes coming soon.</p>
 <p><em><a href="../../../CliMet/2026-07-03-welcome/fr/index.html">Version française</a></em></p>
 
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>news</category>
-  <category>quarto</category>
+  <category>climate</category>
+  <category>meteorology</category>
   <guid>https://hmandela.github.io/CliMet/2026-07-03-welcome/en/</guid>
   <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Bienvenue sur mon nouveau site</title>
+  <title>À propos de cette section</title>
   <dc:creator>Mandela HOUNGNIBO</dc:creator>
   <link>https://hmandela.github.io/CliMet/2026-07-03-welcome/fr/</link>
   <description><![CDATA[ 
@@ -45,15 +45,15 @@
 
 
 
-<p>Bienvenue ! Ce site est construit avec <a href="https://quarto.org/">Quarto</a> et rassemble mes travaux sur la <strong>prévision climatique saisonnière</strong>, la <strong>modélisation hydrologique</strong> et l’<strong>apprentissage automatique pour l’Afrique de l’Ouest</strong> — dont le framework <a href="https://github.com/hmandela/WASS2S">WASS2S</a>.</p>
-<p>Les articles paraîtront en anglais et en français. À bientôt.</p>
+<p>Cette section rassemble des notes techniques courtes sur la <strong>prévision climatique saisonnière</strong>, la <strong>météorologie</strong> et l’<strong>hydrologie</strong> en Afrique de l’Ouest — les thèmes derrière le framework <a href="https://github.com/hmandela/WASS2S">WASS2S</a>.</p>
+<p>D’autres notes à venir.</p>
 <p><em><a href="../../../CliMet/2026-07-03-welcome/en/index.html">English version</a></em></p>
 
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <category>news</category>
-  <category>quarto</category>
+  <category>climat</category>
+  <category>météorologie</category>
   <guid>https://hmandela.github.io/CliMet/2026-07-03-welcome/fr/</guid>
   <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
 </item>

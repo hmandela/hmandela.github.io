@@ -4,35 +4,35 @@
     "href": "index.html",
     "title": "Mandela HOUNGNIBO",
     "section": "",
-    "text": "title: “Mandela HOUNGNIBO” image: hm.jpg page-layout: full title-block-banner: false comments: false toc: false about: template: trestles image-shape: round image-width: 12em links: - icon: envelope text: Email href: mailto:hmandelahmadiba@gmail.com - icon: github text: GitHub href: https://github.com/hmandela - icon: linkedin text: LinkedIn href: https://www.linkedin.com/in/mandela-houngnibo/ - icon: mortarboard text: Google Scholar href: https://scholar.google.com/citations?hl=en&user=-wzU1PAAAAAJ&view_op=list_works&sortby=pubdate listing: - id: recent-posts contents: blog///index.qmd type: default fields: [image, date, title, subtitle, categories, reading-time] sort: “date desc” sort-ui: false filter-ui: false page-size: 3 —\nI am an agro-hydro-meteorologist working on seasonal climate forecasting, hydrological modelling and machine learning for West Africa. I am the author of WASS2S, a Python framework for seasonal-to-subseasonal forecasting in West Africa.\nMore about me → · En français →"
+    "text": "I am an agro-hydro-meteorologist working on seasonal climate forecasting, hydrological modelling and machine learning for West Africa. I am the author of WASS2S, a Python framework for seasonal-to-subseasonal forecasting in West Africa.\nMore about me → · En français →"
   },
   {
     "objectID": "index.html#latest-posts",
     "href": "index.html#latest-posts",
     "title": "Mandela HOUNGNIBO",
     "section": "Latest posts",
-    "text": "Latest posts\n\n\n\nAll posts →"
+    "text": "Latest posts\n\n\n\n\n\n\n\n\nWelcome to my new website\n\n\nRebuilt with Quarto — blog, publications and talks in one place\n\n\nnews\nquarto\n\n\n\n\n\nJul 3, 2026\n\n1 min\n\n\n\n\n\n\n\n\n\nBienvenue sur mon nouveau site\n\n\nReconstruit avec Quarto — blog, publications et présentations au même endroit\n\n\nnews\nquarto\n\n\n\n\n\nJul 3, 2026\n\n1 min\n\n\n\n\nNo matching items\n\nAll posts →"
   },
   {
     "objectID": "CliMet/index.html",
     "href": "CliMet/index.html",
-    "title": "Blog",
+    "title": "CliMet",
     "section": "",
-    "text": "English only · Français uniquement\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome to my new website\n\n\nRebuilt with Quarto — blog, publications and talks in one place\n\n\n\nnews\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nBienvenue sur mon nouveau site\n\n\nReconstruit avec Quarto — blog, publications et présentations au même endroit\n\n\n\nnews\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n1 min\n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
+    "text": "English only · Français uniquement\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAbout this section\n\n\nShort notes on climate and meteorology in West Africa\n\n\n\nclimate\n\nmeteorology\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nÀ propos de cette section\n\n\nNotes courtes sur le climat et la météorologie en Afrique de l’Ouest\n\n\n\nclimat\n\nmétéorologie\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n1 min\n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "CliMet/2026-07-03-welcome/en/index.html",
     "href": "CliMet/2026-07-03-welcome/en/index.html",
-    "title": "Welcome to my new website",
+    "title": "About this section",
     "section": "",
-    "text": "Welcome! This site is built with Quarto and gathers my work on seasonal climate forecasting, hydrological modelling and machine learning for West Africa — including the WASS2S framework.\nPosts will appear in English and in French. Stay tuned.\nVersion française\n\n\n\n Back to top"
+    "text": "This section collects short technical notes on seasonal climate forecasting, meteorology and hydrology for West Africa — the topics behind the WASS2S framework.\nMore notes coming soon.\nVersion française\n\n\n\n Back to top"
   },
   {
     "objectID": "CliMet/fr.html",
     "href": "CliMet/fr.html",
-    "title": "Blog — Français",
+    "title": "CliMet — Français",
     "section": "",
-    "text": "Tous les articles · English\n\n\n   \n    \n    \n      Trier par\n      Ordre par défaut\n      \n        Titre\n      \n      \n        Date - Le plus ancien\n      \n      \n        Date - Le plus récent\n      \n      \n        Auteur·rice\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBienvenue sur mon nouveau site\n\n\nReconstruit avec Quarto — blog, publications et présentations au même endroit\n\n\n\nnews\n\nquarto\n\n\n\n\n\n\n3 juil. 2026\n\n\nMandela HOUNGNIBO\n\n1 min.\n\n\n\n\nAucun article correspondant\n\n\n\n\n\n Retour au sommet"
+    "text": "Tous les articles · English\n\n\n   \n    \n    \n      Trier par\n      Ordre par défaut\n      \n        Titre\n      \n      \n        Date - Le plus ancien\n      \n      \n        Date - Le plus récent\n      \n      \n        Auteur·rice\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nÀ propos de cette section\n\n\nNotes courtes sur le climat et la météorologie en Afrique de l’Ouest\n\n\n\nclimat\n\nmétéorologie\n\n\n\n\n\n\n3 juil. 2026\n\n\nMandela HOUNGNIBO\n\n1 min.\n\n\n\n\nAucun article correspondant\n\n\n\n\n\n Retour au sommet"
   },
   {
     "objectID": "blog/index.html",
@@ -177,16 +177,16 @@
   {
     "objectID": "CliMet/en.html",
     "href": "CliMet/en.html",
-    "title": "Blog — English",
+    "title": "CliMet — English",
     "section": "",
-    "text": "All posts · Français\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome to my new website\n\n\nRebuilt with Quarto — blog, publications and talks in one place\n\n\n\nnews\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n1 min\n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
+    "text": "All · Français\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAbout this section\n\n\nShort notes on climate and meteorology in West Africa\n\n\n\nclimate\n\nmeteorology\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n1 min\n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "CliMet/2026-07-03-welcome/fr/index.html",
     "href": "CliMet/2026-07-03-welcome/fr/index.html",
-    "title": "Bienvenue sur mon nouveau site",
+    "title": "À propos de cette section",
     "section": "",
-    "text": "Bienvenue ! Ce site est construit avec Quarto et rassemble mes travaux sur la prévision climatique saisonnière, la modélisation hydrologique et l’apprentissage automatique pour l’Afrique de l’Ouest — dont le framework WASS2S.\nLes articles paraîtront en anglais et en français. À bientôt.\nEnglish version\n\n\n\n Retour au sommet"
+    "text": "Cette section rassemble des notes techniques courtes sur la prévision climatique saisonnière, la météorologie et l’hydrologie en Afrique de l’Ouest — les thèmes derrière le framework WASS2S.\nD’autres notes à venir.\nEnglish version\n\n\n\n Retour au sommet"
   },
   {
     "objectID": "publications.html",
