@@ -1,5 +1,5 @@
 ---
-title: "Blog — English"
+title: "CliMet — English"
 listing:
   - id: posts-en
     contents: "*/en/index.qmd"
@@ -16,7 +16,7 @@ comments: false
 toc: false
 ---
 
-[All posts](index.qmd) · [Français](fr.qmd)
+[All](index.qmd) · [Français](fr.qmd)
 
 ::: {#posts-en}
 :::

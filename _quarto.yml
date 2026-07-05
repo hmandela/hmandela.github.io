@@ -44,11 +44,11 @@ website:
       - text: CliMet
         menu:
           - text: All
-            href: blog/index.qmd
+            href: CliMet/index.qmd
           - text: English
-            href: blog/en.qmd
+            href: CliMet/en.qmd
           - text: Français
-            href: blog/fr.qmd
+            href: CliMet/fr.qmd
       - icon: github
         href: https://github.com/hmandela
         aria-label: GitHub

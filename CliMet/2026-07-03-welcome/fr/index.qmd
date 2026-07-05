@@ -1,13 +1,13 @@
 ---
-title: "Bienvenue sur mon nouveau site"
-subtitle: "Reconstruit avec Quarto — blog, publications et présentations au même endroit"
+title: "À propos de cette section"
+subtitle: "Notes courtes sur le climat et la météorologie en Afrique de l'Ouest"
 date: "2026-07-03"
-categories: [news, quarto]
+categories: [climat, météorologie]
 lang: fr
 ---
 
-Bienvenue ! Ce site est construit avec [Quarto](https://quarto.org/) et rassemble mes travaux sur la **prévision climatique saisonnière**, la **modélisation hydrologique** et l'**apprentissage automatique pour l'Afrique de l'Ouest** — dont le framework [WASS2S](https://github.com/hmandela/WASS2S).
+Cette section rassemble des notes techniques courtes sur la **prévision climatique saisonnière**, la **météorologie** et l'**hydrologie** en Afrique de l'Ouest — les thèmes derrière le framework [WASS2S](https://github.com/hmandela/WASS2S).
 
-Les articles paraîtront en anglais et en français. À bientôt.
+D'autres notes à venir.
 
 *[English version](../en/index.qmd)*

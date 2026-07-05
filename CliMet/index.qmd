@@ -1,5 +1,6 @@
 ---
-title: "Blog"
+title: "CliMet"
+subtitle: "Notes on climate & meteorology for West Africa"
 listing:
   - id: posts
     contents: "*/*/index.qmd"
@@ -11,7 +12,7 @@ listing:
     filter-ui: true
     page-size: 12
     feed:
-      title: "Mandela HOUNGNIBO — Blog"
+      title: "Mandela HOUNGNIBO — CliMet"
 page-layout: full
 title-block-banner: false
 comments: false

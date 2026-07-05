@@ -1,13 +1,13 @@
 ---
-title: "Welcome to my new website"
-subtitle: "Rebuilt with Quarto — blog, publications and talks in one place"
+title: "About this section"
+subtitle: "Short notes on climate and meteorology in West Africa"
 date: "2026-07-03"
-categories: [news, quarto]
+categories: [climate, meteorology]
 lang: en
 ---
 
-Welcome! This site is built with [Quarto](https://quarto.org/) and gathers my work on **seasonal climate forecasting**, **hydrological modelling** and **machine learning for West Africa** — including the [WASS2S](https://github.com/hmandela/WASS2S) framework.
+This section collects short technical notes on **seasonal climate forecasting**, **meteorology** and **hydrology** for West Africa — the topics behind the [WASS2S](https://github.com/hmandela/WASS2S) framework.
 
-Posts will appear in English and in French. Stay tuned.
+More notes coming soon.
 
 *[Version française](../fr/index.qmd)*
