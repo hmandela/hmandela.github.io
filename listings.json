@@ -1,12 +1,9 @@
 [
   {
-    "listing": "/talks/index.html",
-    "items": []
-  },
-  {
-    "listing": "/blog/fr.html",
+    "listing": "/CliMet/index.html",
     "items": [
-      "/blog/2026-07-03-welcome/fr/index.html"
+      "/CliMet/2026-07-03-welcome/en/index.html",
+      "/CliMet/2026-07-03-welcome/fr/index.html"
     ]
   },
   {
@@ -16,17 +13,21 @@
     ]
   },
   {
-    "listing": "/CliMet/en.html",
+    "listing": "/blog/index.html",
     "items": [
-      "/CliMet/2026-07-03-welcome/en/index.html"
+      "/blog/2026-07-03-welcome/en/index.html",
+      "/blog/2026-07-03-welcome/fr/index.html"
     ]
   },
   {
-    "listing": "/CliMet/index.html",
+    "listing": "/blog/fr.html",
     "items": [
-      "/CliMet/2026-07-03-welcome/en/index.html",
-      "/CliMet/2026-07-03-welcome/fr/index.html"
+      "/blog/2026-07-03-welcome/fr/index.html"
     ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": []
   },
   {
     "listing": "/blog/en.html",
@@ -35,10 +36,9 @@
     ]
   },
   {
-    "listing": "/blog/index.html",
+    "listing": "/CliMet/en.html",
     "items": [
-      "/blog/2026-07-03-welcome/en/index.html",
-      "/blog/2026-07-03-welcome/fr/index.html"
+      "/CliMet/2026-07-03-welcome/en/index.html"
     ]
   }
 ]

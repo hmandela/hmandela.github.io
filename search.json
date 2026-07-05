@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
-    "title": "Talks",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mandela HOUNGNIBO",
     "section": "",
-    "text": "title: “Mandela HOUNGNIBO” image: hm.jpg page-layout: full title-block-banner: false comments: false toc: false about: template: trestles image-shape: round image-width: 12em links: - icon: envelope text: Email href: mailto:hmandelahmadiba@gmail.com - icon: github text: GitHub href: https://github.com/hmandela - icon: linkedin text: LinkedIn href: https://www.linkedin.com/in/mandela-houngnibo/ - icon: mortarboard text: Google Scholar href: https://scholar.google.com/citations?hl=en&user=-wzU1PAAAAAJ&view_op=list_works&sortby=pubdate listing: - id: recent-posts contents: blog///index.qmd type: default fields: [image, date, title, subtitle, categories, reading-time] sort: “date desc” sort-ui: false filter-ui: false page-size: 3\nI am an agro-hydro-meteorologist working on seasonal climate forecasting, hydrological modelling and machine learning for West Africa. I am the author of WASS2S, a Python framework for seasonal-to-subseasonal forecasting in West Africa.\nMore about me → · En français →"
+    "text": "title: “Mandela HOUNGNIBO” image: hm.jpg page-layout: full title-block-banner: false comments: false toc: false about: template: trestles image-shape: round image-width: 12em links: - icon: envelope text: Email href: mailto:hmandelahmadiba@gmail.com - icon: github text: GitHub href: https://github.com/hmandela - icon: linkedin text: LinkedIn href: https://www.linkedin.com/in/mandela-houngnibo/ - icon: mortarboard text: Google Scholar href: https://scholar.google.com/citations?hl=en&user=-wzU1PAAAAAJ&view_op=list_works&sortby=pubdate listing: - id: recent-posts contents: blog///index.qmd type: default fields: [image, date, title, subtitle, categories, reading-time] sort: “date desc” sort-ui: false filter-ui: false page-size: 3 —\nI am an agro-hydro-meteorologist working on seasonal climate forecasting, hydrological modelling and machine learning for West Africa. I am the author of WASS2S, a Python framework for seasonal-to-subseasonal forecasting in West Africa.\nMore about me → · En français →"
   },
   {
     "objectID": "index.html#latest-posts",
@@ -21,78 +14,64 @@
     "text": "Latest posts\n\n\n\nAll posts →"
   },
   {
-    "objectID": "blog/fr.html",
-    "href": "blog/fr.html",
-    "title": "Blog — Français",
+    "objectID": "CliMet/index.html",
+    "href": "CliMet/index.html",
+    "title": "Blog",
     "section": "",
-    "text": "Tous les articles · English\n\n\n   \n     \n     \n       Trier par\n       Ordre par défaut\n         \n          Titre\n        \n         \n          Date - Le plus ancien\n        \n         \n          Date - Le plus récent\n        \n         \n          Auteur·rice\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBienvenue sur mon nouveau site\n\n\nReconstruit avec Quarto — blog, publications et présentations au même endroit\n\n\n\nnews\n\n\nquarto\n\n\n\n\n\n\n3 juil. 2026\n\n\nMandela HOUNGNIBO\n\n\n1 min.\n\n\n\n\n\n\nAucun article correspondant\n\n\n\n\n\n\n Retour au sommet"
+    "text": "English only · Français uniquement\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome to my new website\n\n\nRebuilt with Quarto — blog, publications and talks in one place\n\n\n\nnews\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nBienvenue sur mon nouveau site\n\n\nReconstruit avec Quarto — blog, publications et présentations au même endroit\n\n\n\nnews\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n1 min\n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "blog/2026-07-03-welcome/fr/index.html",
-    "href": "blog/2026-07-03-welcome/fr/index.html",
-    "title": "Bienvenue sur mon nouveau site",
+    "objectID": "CliMet/2026-07-03-welcome/en/index.html",
+    "href": "CliMet/2026-07-03-welcome/en/index.html",
+    "title": "Welcome to my new website",
     "section": "",
-    "text": "Bienvenue ! Ce site est construit avec Quarto et rassemble mes travaux sur la prévision climatique saisonnière, la modélisation hydrologique et l’apprentissage automatique pour l’Afrique de l’Ouest — dont le framework WASS2S.\nLes articles paraîtront en anglais et en français. À bientôt.\nEnglish version\n\n\n\n Retour au sommet"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Mandela HOUNGNIBO",
-    "section": "",
-    "text": "English Français"
-  },
-  {
-    "objectID": "about.html#bio",
-    "href": "about.html#bio",
-    "title": "Mandela HOUNGNIBO",
-    "section": "Bio",
-    "text": "Bio\nThroughout my academic journey, I earned a Bachelor’s degree in Atmospheric Sciences and pursued a Master’s degree in Agrometeorology. I’m currently a PhD candidate in agriculture and water sciences. Find my resume here."
-  },
-  {
-    "objectID": "about.html#software",
-    "href": "about.html#software",
-    "title": "Mandela HOUNGNIBO",
-    "section": "Software",
-    "text": "Software\n\nWASS2S — a Python framework for seasonal-to-subseasonal (S2S) climate forecasting in West Africa: statistical, machine-learning and multi-model ensemble methods, with probabilistic tercile outputs. Documentation."
-  },
-  {
-    "objectID": "about.html#selected-papers",
-    "href": "about.html#selected-papers",
-    "title": "Mandela HOUNGNIBO",
-    "section": "Selected papers",
-    "text": "Selected papers\nHoungnibo, M. C. M., Ali, A., Agali, A., Waongo, M., Lawin, A. E., & Cohard, J. M. (2023). Stochastic disaggregation of seasonal precipitation forecasts of the West African Regional Climate Outlook Forum. International Journal of Climatology, 43(12), 5569-5585.\nHoungnibo, M. C. M., Minoungou, B., Traore, S. B., Maidment, R. I., Alhassane, A., & Ali, A. (2023). Validation of high-resolution satellite precipitation products over West Africa for rainfall monitoring and early warning. Frontiers in Climate, 5, 1185754.\nYou can find all my publications here."
-  },
-  {
-    "objectID": "about.html#projects-i-worked-on",
-    "href": "about.html#projects-i-worked-on",
-    "title": "Mandela HOUNGNIBO",
-    "section": "Projects I worked on",
-    "text": "Projects I worked on\n\nAGRHYMET part of Accelerating Impacts of CGIAR Climate Research for Africa AICCRA. Here are some results.\nGCRF project “Exploiting Environmental Data for Food Security in Africa: A New Rainfall Dataset for Monitoring and Early Action”, a collaboration between the University of Reading (UK) and the AGRHYMET Regional Centre. Here are some results."
-  },
-  {
-    "objectID": "about.html#teaching",
-    "href": "about.html#teaching",
-    "title": "Mandela HOUNGNIBO",
-    "section": "Teaching",
-    "text": "Teaching\n\nFind my courses\nHere are some student projects I have supervised"
-  },
-  {
-    "objectID": "about.html#professional-affiliations",
-    "href": "about.html#professional-affiliations",
-    "title": "Mandela HOUNGNIBO",
-    "section": "Professional affiliations",
-    "text": "Professional affiliations\nYoung Earth System Scientists Community | Member since 2023"
+    "text": "Welcome! This site is built with Quarto and gathers my work on seasonal climate forecasting, hydrological modelling and machine learning for West Africa — including the WASS2S framework.\nPosts will appear in English and in French. Stay tuned.\nVersion française\n\n\n\n Back to top"
   },
   {
     "objectID": "CliMet/fr.html",
     "href": "CliMet/fr.html",
     "title": "Blog — Français",
     "section": "",
-    "text": "Tous les articles · English\n\n\n   \n     \n     \n       Trier par\n       Ordre par défaut\n         \n          Titre\n        \n         \n          Date - Le plus ancien\n        \n         \n          Date - Le plus récent\n        \n         \n          Auteur·rice\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBienvenue sur mon nouveau site\n\n\nReconstruit avec Quarto — blog, publications et présentations au même endroit\n\n\n\nnews\n\n\nquarto\n\n\n\n\n\n\n3 juil. 2026\n\n\nMandela HOUNGNIBO\n\n\n1 min.\n\n\n\n\n\n\nAucun article correspondant\n\n\n\n\n\n\n Retour au sommet"
+    "text": "Tous les articles · English\n\n\n   \n    \n    \n      Trier par\n      Ordre par défaut\n      \n        Titre\n      \n      \n        Date - Le plus ancien\n      \n      \n        Date - Le plus récent\n      \n      \n        Auteur·rice\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBienvenue sur mon nouveau site\n\n\nReconstruit avec Quarto — blog, publications et présentations au même endroit\n\n\n\nnews\n\nquarto\n\n\n\n\n\n\n3 juil. 2026\n\n\nMandela HOUNGNIBO\n\n1 min.\n\n\n\n\nAucun article correspondant\n\n\n\n\n\n Retour au sommet"
   },
   {
-    "objectID": "CliMet/2026-07-03-welcome/fr/index.html",
-    "href": "CliMet/2026-07-03-welcome/fr/index.html",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "English only · Français uniquement\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome to my new website\n\n\nRebuilt with Quarto — blog, publications and talks in one place\n\n\n\nnews\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nBienvenue sur mon nouveau site\n\n\nReconstruit avec Quarto — blog, publications et présentations au même endroit\n\n\n\nnews\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n1 min\n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "blog/2026-07-03-welcome/en/index.html",
+    "href": "blog/2026-07-03-welcome/en/index.html",
+    "title": "Welcome to my new website",
+    "section": "",
+    "text": "Welcome! This site is built with Quarto and gathers my work on seasonal climate forecasting, hydrological modelling and machine learning for West Africa — including the WASS2S framework.\nPosts will appear in English and in French. Stay tuned.\nVersion française\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "blog/fr.html",
+    "href": "blog/fr.html",
+    "title": "Blog — Français",
+    "section": "",
+    "text": "Tous les articles · English\n\n\n   \n    \n    \n      Trier par\n      Ordre par défaut\n      \n        Titre\n      \n      \n        Date - Le plus ancien\n      \n      \n        Date - Le plus récent\n      \n      \n        Auteur·rice\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBienvenue sur mon nouveau site\n\n\nReconstruit avec Quarto — blog, publications et présentations au même endroit\n\n\n\nnews\n\nquarto\n\n\n\n\n\n\n3 juil. 2026\n\n\nMandela HOUNGNIBO\n\n1 min.\n\n\n\n\nAucun article correspondant\n\n\n\n\n\n Retour au sommet"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "blog/en.html",
+    "href": "blog/en.html",
+    "title": "Blog — English",
+    "section": "",
+    "text": "All posts · Français\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome to my new website\n\n\nRebuilt with Quarto — blog, publications and talks in one place\n\n\n\nnews\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n1 min\n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "blog/2026-07-03-welcome/fr/index.html",
+    "href": "blog/2026-07-03-welcome/fr/index.html",
     "title": "Bienvenue sur mon nouveau site",
     "section": "",
     "text": "Bienvenue ! Ce site est construit avec Quarto et rassemble mes travaux sur la prévision climatique saisonnière, la modélisation hydrologique et l’apprentissage automatique pour l’Afrique de l’Ouest — dont le framework WASS2S.\nLes articles paraîtront en anglais et en français. À bientôt.\nEnglish version\n\n\n\n Retour au sommet"
@@ -147,46 +126,67 @@
     "text": "Affiliations professionnelles\nYoung Earth System Scientists Community | Membre depuis 2023"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Mandela HOUNGNIBO",
+    "section": "",
+    "text": "English Français"
+  },
+  {
+    "objectID": "about.html#bio",
+    "href": "about.html#bio",
+    "title": "Mandela HOUNGNIBO",
+    "section": "Bio",
+    "text": "Bio\nThroughout my academic journey, I earned a Bachelor’s degree in Atmospheric Sciences and pursued a Master’s degree in Agrometeorology. I’m currently a PhD candidate in agriculture and water sciences. Find my resume here."
+  },
+  {
+    "objectID": "about.html#software",
+    "href": "about.html#software",
+    "title": "Mandela HOUNGNIBO",
+    "section": "Software",
+    "text": "Software\n\nWASS2S — a Python framework for seasonal-to-subseasonal (S2S) climate forecasting in West Africa: statistical, machine-learning and multi-model ensemble methods, with probabilistic tercile outputs. Documentation."
+  },
+  {
+    "objectID": "about.html#selected-papers",
+    "href": "about.html#selected-papers",
+    "title": "Mandela HOUNGNIBO",
+    "section": "Selected papers",
+    "text": "Selected papers\nHoungnibo, M. C. M., Ali, A., Agali, A., Waongo, M., Lawin, A. E., & Cohard, J. M. (2023). Stochastic disaggregation of seasonal precipitation forecasts of the West African Regional Climate Outlook Forum. International Journal of Climatology, 43(12), 5569-5585.\nHoungnibo, M. C. M., Minoungou, B., Traore, S. B., Maidment, R. I., Alhassane, A., & Ali, A. (2023). Validation of high-resolution satellite precipitation products over West Africa for rainfall monitoring and early warning. Frontiers in Climate, 5, 1185754.\nYou can find all my publications here."
+  },
+  {
+    "objectID": "about.html#projects-i-worked-on",
+    "href": "about.html#projects-i-worked-on",
+    "title": "Mandela HOUNGNIBO",
+    "section": "Projects I worked on",
+    "text": "Projects I worked on\n\nAGRHYMET part of Accelerating Impacts of CGIAR Climate Research for Africa AICCRA. Here are some results.\nGCRF project “Exploiting Environmental Data for Food Security in Africa: A New Rainfall Dataset for Monitoring and Early Action”, a collaboration between the University of Reading (UK) and the AGRHYMET Regional Centre. Here are some results."
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "Mandela HOUNGNIBO",
+    "section": "Teaching",
+    "text": "Teaching\n\nFind my courses\nHere are some student projects I have supervised"
+  },
+  {
+    "objectID": "about.html#professional-affiliations",
+    "href": "about.html#professional-affiliations",
+    "title": "Mandela HOUNGNIBO",
+    "section": "Professional affiliations",
+    "text": "Professional affiliations\nYoung Earth System Scientists Community | Member since 2023"
+  },
+  {
     "objectID": "CliMet/en.html",
     "href": "CliMet/en.html",
     "title": "Blog — English",
     "section": "",
-    "text": "All posts · Français\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome to my new website\n\n\nRebuilt with Quarto — blog, publications and talks in one place\n\n\n\nnews\n\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n\n1 min\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n Back to top"
+    "text": "All posts · Français\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome to my new website\n\n\nRebuilt with Quarto — blog, publications and talks in one place\n\n\n\nnews\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n1 min\n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "CliMet/2026-07-03-welcome/en/index.html",
-    "href": "CliMet/2026-07-03-welcome/en/index.html",
-    "title": "Welcome to my new website",
+    "objectID": "CliMet/2026-07-03-welcome/fr/index.html",
+    "href": "CliMet/2026-07-03-welcome/fr/index.html",
+    "title": "Bienvenue sur mon nouveau site",
     "section": "",
-    "text": "Welcome! This site is built with Quarto and gathers my work on seasonal climate forecasting, hydrological modelling and machine learning for West Africa — including the WASS2S framework.\nPosts will appear in English and in French. Stay tuned.\nVersion française\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "CliMet/index.html",
-    "href": "CliMet/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "English only · Français uniquement\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome to my new website\n\n\nRebuilt with Quarto — blog, publications and talks in one place\n\n\n\nnews\n\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nBienvenue sur mon nouveau site\n\n\nReconstruit avec Quarto — blog, publications et présentations au même endroit\n\n\n\nnews\n\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n\n1 min\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "blog/en.html",
-    "href": "blog/en.html",
-    "title": "Blog — English",
-    "section": "",
-    "text": "All posts · Français\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome to my new website\n\n\nRebuilt with Quarto — blog, publications and talks in one place\n\n\n\nnews\n\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n\n1 min\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "blog/2026-07-03-welcome/en/index.html",
-    "href": "blog/2026-07-03-welcome/en/index.html",
-    "title": "Welcome to my new website",
-    "section": "",
-    "text": "Welcome! This site is built with Quarto and gathers my work on seasonal climate forecasting, hydrological modelling and machine learning for West Africa — including the WASS2S framework.\nPosts will appear in English and in French. Stay tuned.\nVersion française\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "English only · Français uniquement\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome to my new website\n\n\nRebuilt with Quarto — blog, publications and talks in one place\n\n\n\nnews\n\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nBienvenue sur mon nouveau site\n\n\nReconstruit avec Quarto — blog, publications et présentations au même endroit\n\n\n\nnews\n\n\nquarto\n\n\n\n\n\n\nJul 3, 2026\n\n\nMandela HOUNGNIBO\n\n\n1 min\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n Back to top"
+    "text": "Bienvenue ! Ce site est construit avec Quarto et rassemble mes travaux sur la prévision climatique saisonnière, la modélisation hydrologique et l’apprentissage automatique pour l’Afrique de l’Ouest — dont le framework WASS2S.\nLes articles paraîtront en anglais et en français. À bientôt.\nEnglish version\n\n\n\n Retour au sommet"
   },
   {
     "objectID": "publications.html",

@@ -9,13 +9,14 @@
 <link>https://hmandela.github.io/CliMet/</link>
 <atom:link href="https://hmandela.github.io/CliMet/index.xml" rel="self" type="application/rss+xml"/>
 <description>Agro-hydro-meteorologist. Seasonal climate forecasting, hydrology and machine learning for West Africa.</description>
-<generator>quarto-1.6.42</generator>
-<lastBuildDate>Thu, 02 Jul 2026 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Fri, 03 Jul 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Welcome to my new website</title>
   <dc:creator>Mandela HOUNGNIBO</dc:creator>
   <link>https://hmandela.github.io/CliMet/2026-07-03-welcome/en/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -31,13 +32,14 @@
   <category>news</category>
   <category>quarto</category>
   <guid>https://hmandela.github.io/CliMet/2026-07-03-welcome/en/</guid>
-  <pubDate>Thu, 02 Jul 2026 23:00:00 GMT</pubDate>
+  <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Bienvenue sur mon nouveau site</title>
   <dc:creator>Mandela HOUNGNIBO</dc:creator>
   <link>https://hmandela.github.io/CliMet/2026-07-03-welcome/fr/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -53,7 +55,7 @@
   <category>news</category>
   <category>quarto</category>
   <guid>https://hmandela.github.io/CliMet/2026-07-03-welcome/fr/</guid>
-  <pubDate>Thu, 02 Jul 2026 23:00:00 GMT</pubDate>
+  <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
