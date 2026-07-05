@@ -1,4 +1,4 @@
-# hmandela.com
+# hmandela.github.io
 
 Personal website of Mandela HOUNGNIBO, built with [Quarto](https://quarto.org/).
 
@@ -18,4 +18,4 @@ Copy `talks/_template/` to `talks/YYYY-MM-short-name/` and edit `index.qmd`.
 
 ## Deploy
 
-Pushing to `main` triggers `.github/workflows/publish.yml`, which renders the site and publishes it to the `gh-pages` branch (GitHub Pages). Computational output is frozen (`freeze: auto`), so CI does not need Python/R — render posts locally and commit the `_freeze/` directory.
+Pushing to `main` triggers `.github/workflows/publish.yml`, which renders the site and deploys it to GitHub Pages using the official Pages workflow (`upload-pages-artifact` + `deploy-pages`). Set **Settings → Pages → Source → GitHub Actions** once. Computational output is frozen (`freeze: auto`), so CI does not need Python/R — render posts locally and commit the `_freeze/` directory.
