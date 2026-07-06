@@ -56,11 +56,74 @@
     "text": "Tous les articles · English\n\n\n   \n    \n    \n      Trier par\n      Ordre par défaut\n      \n        Titre\n      \n      \n        Date - Le plus ancien\n      \n      \n        Date - Le plus récent\n      \n      \n        Auteur·rice\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBienvenue sur mon nouveau site\n\n\nReconstruit avec Quarto — blog, publications et présentations au même endroit\n\n\n\nnews\n\nquarto\n\n\n\n\n\n\n3 juil. 2026\n\n\nMandela HOUNGNIBO\n\n1 min.\n\n\n\n\nAucun article correspondant\n\n\n\n\n\n Retour au sommet"
   },
   {
+    "objectID": "talks/2026-04-27-WMO-AI-Webinars/index.html",
+    "href": "talks/2026-04-27-WMO-AI-Webinars/index.html",
+    "title": "WAS-NextGen: An Objective Multi-Method Framework for Seasonal Climate Forecasting in West Africa",
+    "section": "",
+    "text": "Presented in the WMO Artificial Intelligence Webinar Series (session on the good practices of KNUST and AGRHYMET), this talk introduces WAS-NextGen, an objective, reproducible framework for seasonal climate forecasting in West Africa and the Sahel, implemented through the open-source Python package wass2s."
+  },
+  {
+    "objectID": "talks/2026-04-27-WMO-AI-Webinars/index.html#about-this-talk",
+    "href": "talks/2026-04-27-WMO-AI-Webinars/index.html#about-this-talk",
+    "title": "WAS-NextGen: An Objective Multi-Method Framework for Seasonal Climate Forecasting in West Africa",
+    "section": "",
+    "text": "Presented in the WMO Artificial Intelligence Webinar Series (session on the good practices of KNUST and AGRHYMET), this talk introduces WAS-NextGen, an objective, reproducible framework for seasonal climate forecasting in West Africa and the Sahel, implemented through the open-source Python package wass2s."
+  },
+  {
+    "objectID": "talks/2026-04-27-WMO-AI-Webinars/index.html#watch-the-recording",
+    "href": "talks/2026-04-27-WMO-AI-Webinars/index.html#watch-the-recording",
+    "title": "WAS-NextGen: An Objective Multi-Method Framework for Seasonal Climate Forecasting in West Africa",
+    "section": "Watch the recording",
+    "text": "Watch the recording\n\n\nThe WAS-NextGen segment begins at 29:38 (the KNUST presentation opens the session)."
+  },
+  {
+    "objectID": "talks/2026-04-27-WMO-AI-Webinars/index.html#slides",
+    "href": "talks/2026-04-27-WMO-AI-Webinars/index.html#slides",
+    "title": "WAS-NextGen: An Objective Multi-Method Framework for Seasonal Climate Forecasting in West Africa",
+    "section": "Slides",
+    "text": "Slides\nDownload the slides (PDF)"
+  },
+  {
+    "objectID": "talks/2026-04-27-WMO-AI-Webinars/index.html#abstract",
+    "href": "talks/2026-04-27-WMO-AI-Webinars/index.html#abstract",
+    "title": "WAS-NextGen: An Objective Multi-Method Framework for Seasonal Climate Forecasting in West Africa",
+    "section": "Abstract",
+    "text": "Abstract\nSeasonal climate forecasting in West Africa has traditionally relied on consensus-based methods that lack reproducibility and high-resolution detail. This presentation introduces WAS-NextGen, an automated, multi-method framework that integrates machine-learning-calibrated multi-model ensembles (SV–ML–CMME), statistical–dynamical CCA calibration, lagged-predictor components, and analogue-year methods. Implemented via the open-source Python package wass2s, the system ensures a fully reproducible workflow from data acquisition to probabilistic mapping."
+  },
+  {
+    "objectID": "talks/2026-04-27-WMO-AI-Webinars/index.html#highlights",
+    "href": "talks/2026-04-27-WMO-AI-Webinars/index.html#highlights",
+    "title": "WAS-NextGen: An Objective Multi-Method Framework for Seasonal Climate Forecasting in West Africa",
+    "section": "Highlights",
+    "text": "Highlights\n\nFrom subjective to objective. Replaces consensus-based forecasting with an automated, traceable, skill-assessed pipeline, aligned with WMO guidance for objective and operational seasonal forecasting.\nOne reproducible workflow. End-to-end and modular: data acquisition → preprocessing and bias correction → model training with leakage-free cross-validation → verification → multi-model ensemble → probabilistic tercile maps.\nMultiple forecasting engines, combined objectively. ML-calibrated multi-model ensembles (SV–ML–CMME), statistical–dynamical CCA calibration, lagged-predictor models, and analogue-year methods — behind a common interface.\nOpen source and operational. Built on the wass2s Python package, supporting national meteorological and hydrological services and capacity building across the region."
+  },
+  {
+    "objectID": "talks/2026-04-27-WMO-AI-Webinars/index.html#resources",
+    "href": "talks/2026-04-27-WMO-AI-Webinars/index.html#resources",
+    "title": "WAS-NextGen: An Objective Multi-Method Framework for Seasonal Climate Forecasting in West Africa",
+    "section": "Resources",
+    "text": "Resources\n\n📦 Package: wass2s on GitHub · documentation · PyPI (pip install wass2s)\n📄 Paper: wass2s: An Open-Source Python Tool for Objective Seasonal Climate Forecasting in West Africa and the Sahel (SSRN)\n🎙️ Webinar series: WMO AI Webinars"
+  },
+  {
+    "objectID": "talks/2026-04-27-WMO-AI-Webinars/index.html#how-to-cite",
+    "href": "talks/2026-04-27-WMO-AI-Webinars/index.html#how-to-cite",
+    "title": "WAS-NextGen: An Objective Multi-Method Framework for Seasonal Climate Forecasting in West Africa",
+    "section": "How to cite",
+    "text": "How to cite\n\n\n\n\n\n\nNoteBibTeX\n\n\n\n\n\n@misc{houngnibo_wass2s,\n  author = {Houngnibo, Coovi Mahuw{\\`e}tin Mandela and Segnon, Alcade\n            and Tonle, Franck and Kiema, Ars{\\`e}ne W. and Ali, Abdou\n            and Sounouke, Valerie H. and Zougmor{\\'e}, Robert},\n  title  = {{wass2s}: An Open-Source Python Tool for Objective Seasonal\n            Climate Forecasting in West Africa and the Sahel},\n  year   = {2026},\n  note   = {SSRN preprint},\n  url    = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6569116}\n}"
+  },
+  {
+    "objectID": "talks/2026-04-27-WMO-AI-Webinars/index.html#acknowledgements",
+    "href": "talks/2026-04-27-WMO-AI-Webinars/index.html#acknowledgements",
+    "title": "WAS-NextGen: An Objective Multi-Method Framework for Seasonal Climate Forecasting in West Africa",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nDeveloped at the AGRHYMET Regional Climate Centre for West Africa and the Sahel (RCC-WAS), with support from the Accelerating Impacts of CGIAR Climate Research for Africa (AICCRA) project."
+  },
+  {
     "objectID": "talks/index.html",
     "href": "talks/index.html",
     "title": "Talks",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWAS-NextGen: An Objective Multi-Method Framework for Seasonal Climate Forecasting in West Africa\n\n\n\nApril 27, 2026\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "blog/en.html",

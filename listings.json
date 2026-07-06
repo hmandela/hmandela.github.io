@@ -34,7 +34,9 @@
   },
   {
     "listing": "/talks/index.html",
-    "items": []
+    "items": [
+      "/talks/2026-04-27-WMO-AI-Webinars/index.html"
+    ]
   },
   {
     "listing": "/blog/en.html",
