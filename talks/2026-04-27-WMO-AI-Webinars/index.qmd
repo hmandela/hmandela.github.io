@@ -1,0 +1,108 @@
+---
+title: "WAS-NextGen: An Objective Multi-Method Framework for Seasonal Climate Forecasting in West Africa"
+description: |
+  Invited talk in the WMO Artificial Intelligence Webinar Series —
+  "Good practices of KNUST and AGRHYMET".
+date: 2026-04-27
+author:
+  - name: Coovi Mahuwètin Mandela Houngnibo
+    affiliation: AGRHYMET Regional Climate Centre – West Africa & Sahel (RCC-WAS), Niamey, Niger
+  - name: Abdou Ali
+    affiliation: AGRHYMET Regional Climate Centre – West Africa & Sahel (RCC-WAS), Niamey, Niger
+categories:
+  - Seasonal forecasting
+  - Machine learning
+  - Climate services
+  - West Africa & Sahel
+  - Open source
+  - WMO
+image: thumbnail.png
+image-alt: >-
+  Seasonal rainfall tercile probability forecast map for West Africa and the Sahel,
+  showing below-average, near-average, and above-average probability categories.
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+## About this talk
+
+Presented in the **WMO Artificial Intelligence Webinar Series** (session on the good
+practices of KNUST and AGRHYMET), this talk introduces **WAS-NextGen**, an objective,
+reproducible framework for seasonal climate forecasting in West Africa and the Sahel,
+implemented through the open-source Python package [`wass2s`](https://github.com/hmandela/WASS2S).
+
+## Watch the recording
+
+{{< video https://vimeo.com/1188078255 title="WAS-NextGen — WMO AI Webinar" >}}
+
+> The WAS-NextGen segment begins at **[29:38](https://vimeo.com/1188078255#t=29m38s)**
+> (the KNUST presentation opens the session).
+
+## Slides
+
+[**Download the slides (PDF)**](https://wmoomm.sharepoint.com/sites/Collaboration/WMOArtificialIntelligenceInitiative/Forms/AllItems.aspx?id=%2Fsites%2FCollaboration%2FWMOArtificialIntelligenceInitiative%2FWebinars%2F2%2D20260427%2Dgood%20practices%20of%20KNUST%20and%20AGRHYMET%2F2%2E2%5FNew%5Fgen%5FS2S%5FPresentation%5FMandela%2BAbdou%28AGRHYMET%29%2Epdf&parent=%2Fsites%2FCollaboration%2FWMOArtificialIntelligenceInitiative%2FWebinars%2F2%2D20260427%2Dgood%20practices%20of%20KNUST%20and%20AGRHYMET&p=true&ga=1)
+
+<!-- If you self-host the PDF in this folder (e.g. slides.pdf), you can embed it instead:
+::: {.ratio .ratio-16x9}
+<iframe src="slides.pdf"></iframe>
+:::
+-->
+
+## Abstract
+
+Seasonal climate forecasting in West Africa has traditionally relied on consensus-based
+methods that lack reproducibility and high-resolution detail. This presentation introduces
+**WAS-NextGen**, an automated, multi-method framework that integrates
+machine-learning-calibrated multi-model ensembles (SV–ML–CMME), statistical–dynamical CCA
+calibration, lagged-predictor components, and analogue-year methods. Implemented via the
+open-source Python package [`wass2s`](https://github.com/hmandela/WASS2S), the system ensures
+a fully reproducible workflow from data acquisition to probabilistic mapping.
+
+## Highlights
+
+- **From subjective to objective.** Replaces consensus-based forecasting with an automated,
+  traceable, skill-assessed pipeline, aligned with WMO guidance for objective and operational
+  seasonal forecasting.
+- **One reproducible workflow.** End-to-end and modular: data acquisition → preprocessing and
+  bias correction → model training with leakage-free cross-validation → verification →
+  multi-model ensemble → probabilistic tercile maps.
+- **Multiple forecasting engines, combined objectively.** ML-calibrated multi-model ensembles
+  (SV–ML–CMME), statistical–dynamical CCA calibration, lagged-predictor models, and
+  analogue-year methods — behind a common interface.
+- **Open source and operational.** Built on the `wass2s` Python package, supporting national
+  meteorological and hydrological services and capacity building across the region.
+
+## Resources
+
+- 📦 Package: [`wass2s` on GitHub](https://github.com/hmandela/WASS2S) ·
+  [documentation](https://wass2s-readthedocs.readthedocs.io/) ·
+  [PyPI](https://pypi.org/project/wass2s/) (`pip install wass2s`)
+- 📄 Paper: [wass2s: An Open-Source Python Tool for Objective Seasonal Climate Forecasting in West Africa and the Sahel (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6569116)
+- 🎙️ Webinar series: [WMO AI Webinars](https://wmo.int/media/news/wmo-ai-webinars)
+
+## How to cite
+
+::: {.callout-note collapse="true"}
+## BibTeX
+
+```bibtex
+@misc{houngnibo_wass2s,
+  author = {Houngnibo, Coovi Mahuw{\`e}tin Mandela and Segnon, Alcade
+            and Tonle, Franck and Kiema, Ars{\`e}ne W. and Ali, Abdou
+            and Sounouke, Valerie H. and Zougmor{\'e}, Robert},
+  title  = {{wass2s}: An Open-Source Python Tool for Objective Seasonal
+            Climate Forecasting in West Africa and the Sahel},
+  year   = {2026},
+  note   = {SSRN preprint},
+  url    = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6569116}
+}
+```
+:::
+
+## Acknowledgements
+
+Developed at the **AGRHYMET Regional Climate Centre for West Africa and the Sahel (RCC-WAS)**,
+with support from the **Accelerating Impacts of CGIAR Climate Research for Africa (AICCRA)**
+project.

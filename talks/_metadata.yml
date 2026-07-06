@@ -1,0 +1,34 @@
+# talks/_metadata.yml
+# ---------------------------------------------------------------------------
+# Shared defaults for every talk page under talks/.
+# Quarto applies this to all documents in this folder and its subfolders.
+# Anything set in an individual page's YAML header OVERRIDES what's here.
+# ---------------------------------------------------------------------------
+
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: right
+    code-copy: true
+    code-overflow: wrap
+
+# Title block with author(s) + formatted date at the top of each talk
+title-block-style: default
+date-format: long          # e.g. "April 27, 2026"
+
+# Speed up rebuilds: only re-render a page when its source changes.
+# (Heavy embeds like videos won't re-fetch on every render.)
+freeze: auto
+
+# Default author for the site. Uncomment if most talks are solo-authored by you.
+# NOTE: an `author:` list in a page's own header REPLACES this — Quarto does not
+# merge author lists — so pages with co-authors (like the WAS-NextGen talk) should
+# keep their own author block.
+# author:
+#   - name: Coovi Mahuwètin Mandela Houngnibo
+#     affiliation: AGRHYMET RCC-WAS, Niamey, Niger
+
+# Tip: don't set `categories:` here — a page-level categories list overrides
+# (not merges with) this file, so a shared category would be silently dropped
+# on any page that defines its own. Keep categories in each talk's header.
